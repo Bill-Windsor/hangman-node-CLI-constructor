@@ -1,0 +1,14 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "Hangman Node CLI Constructor Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bill Windsor",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
